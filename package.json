@@ -1,0 +1,16 @@
+{
+  "name": "hosting_website_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "Vatsal Talati",
+  "license": "ISC",
+  "homepage": "https://vatsal007.github.io/hosting_website_project",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
